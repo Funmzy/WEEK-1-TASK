@@ -20,7 +20,7 @@ a .detail {
 
 .card-body{
 
-    background-image: url(mount.jpg);
+    background-image: url(../mount.jpg);
     font-family: fantasy;
     
 }
